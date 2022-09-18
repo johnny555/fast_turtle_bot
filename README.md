@@ -1,6 +1,6 @@
 # Fast Turtle Bot
 
-This repo is a quick way to get started using the turtlebot tutorials, in particular [this]{https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/#gazebo-simulation} one. 
+This repo is a quick way to get started using the turtlebot tutorials, in particular [this](https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/#gazebo-simulation) one. 
 
 # Requirements
 
